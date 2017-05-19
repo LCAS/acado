@@ -2,8 +2,8 @@
 Changelog for package acado
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.2.3 (2017-05-19)
+------------------
 * added missing package.xml
 * Merge pull request `#161 <https://github.com/LCAS/acado/issues/161>`_ from clearpathrobotics/CORE-1683_spam_fix
   Commented out a message that gets displayed even when PRINTLEVEL is set to NONE
